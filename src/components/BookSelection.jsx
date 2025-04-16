@@ -30,6 +30,6 @@ const BookSelection = () => {
       </div>
     </div>
   );
-};
+}; 
 
 export default BookSelection;
